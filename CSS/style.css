@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@400;600;700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+:root {
+	--ffffff: #fff;
+    --font-family: "Cormorant Upright", sans-serif;
+    --second-family: "Open Sans", sans-serif;
+    --third-family: "Bestermind", sans-serif;
+}
+
+.container {
+    width: 1080px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #0c0b08;
+}
